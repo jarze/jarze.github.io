@@ -17,3 +17,6 @@
 
 ## `Live2D`
 * [`CubismWebSamples`](https://jarze.github.io/CubismWebSamples/)
+
+## `DEMO`
+* [`Demo-front`](https://jarze.github.io/Demo-front/)
