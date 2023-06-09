@@ -3,6 +3,7 @@
 
 ## `DOC`
 * [`Hexo Blog`](https://jarze.github.io/Blog/)
+* [`学习笔记`](https://jarze.github.io/learn-doc/)
 
 ## `CSS`
 * `CSS3`单标签实现各类图形 [`MagicCss`](https://jarze.github.io/magicCss/index.html)
